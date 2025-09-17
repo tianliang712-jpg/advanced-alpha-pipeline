@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+xgboost
+catboost
+torch
+tushare
+akshare
+requests
